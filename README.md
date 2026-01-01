@@ -101,4 +101,4 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 I am documenting this entirely in public. If you are a Recruiter, CTO, or Senior Engineer in Hyderabad, look at the code. It speaks for itself.
 
 * **X (Twitter):** [@KillerPand34973](https://x.com/KillerPand34973)
-* **LinkedIn:** [Your LinkedIn URL]
+* **LinkedIn:** www.linkedin.com/in/syed-hashim721
