@@ -92,9 +92,9 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 
 | Day | Date | Focus | Key Learning/Build |
 | :--- | :--- | :--- | :--- |
-| **01** | Jan 01 | **Repo Setup** | Defined the Master Roadmap. Configured local Go environment. |
-| **02** | Jan 02 | *(Coming Soon)* | ... |
-
+| **01** | Jan 01 | **Repo Setup** | Did a research for learning Golang with best quality of projects and made a Master Roadmap. |
+| **02** | Jan 02 | ReadMe files | implemented roadmap by defining my step by step plan in ReadMe file and also made a proper folder structure!  |
+| **02** | Jan 03 | First.go | i learned and implemented (from **Tour of Go**) - Vars, Types, Funcs, Returns |
 ---
 
 ## 🤝 Connect
