@@ -1,10 +1,10 @@
-# 🚀 Golang Journey 2026: From Scrap PC to Backend Architect
+# Golang Journey 2026: From Scrap PC to Backend Architect
 
-> **Current Status:** Day 1  
+> **Current Status:** Day 4
 > **Location:** Hyderabad, India  
 > **Objective:** Senior Architect Sequence (Node.js -> High-Perf Go)
 
-## 📖 The Story: Why This Repo Exists
+##  The Story: Why This Repo Exists
 I am a self-taught Backend Engineer with a hunger for high-performance systems. 
 
 I didn't start with a MacBook. I couldn't afford one. 
@@ -25,11 +25,11 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 
 ## 🏆 Proof of Work
 * **2nd Runner Up @ DATANYX Hackathon:** Built "Sporacle" – A real-time IoT mushroom monitoring system.
-    * *Role:* RESTful API Engine & IoT Data Ingestion.
+    * *Role:* Backend dev & (System design) and DB setup.
 
 ---
 
-## 🗺️ The Non-Negotiable Roadmap
+##  The Roadmap
 
 ### Phase 1: The "Theory & Syntax" Foundation (2 Days)
 *Goal: Understand the "Go Way" (Memory, Pointers, Interfaces). No AI coding.*
@@ -85,7 +85,7 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
     * *Resource:* Master Microservices & Event-Driven Architecture (Akhil Sharma).
     * *Focus:* Prometheus metrics, Grafana Dashboards, pprof Profiling.
 
----
+--- Mastered Go's for loops (including while-style), if with short statements, and switch logic.
 
 ## 📝 Daily Log
 *Detailed updates posted daily on [X (Twitter)](https://x.com/KillerPand34973).*
@@ -95,6 +95,8 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **01** | Jan 01 | **Repo Setup** | Did a research for learning Golang with best quality of projects and made a Master Roadmap. |
 | **02** | Jan 02 | ReadMe files | implemented roadmap by defining my step by step plan in ReadMe file and also made a proper folder structure!  |
 | **02** | Jan 03 | First.go | i learned and implemented (from **Tour of Go**) - Vars, Types, Funcs, Returns |
+| **02** | Jan 03 | First.go |  Mastered Go's for loops (including while-style), if with short statements, and switch logic |
+
 ---
 
 ## 🤝 Connect
