@@ -94,8 +94,8 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | :--- | :--- | :--- | :--- |
 | **01** | Jan 01 | **Repo Setup** | Did a research for learning Golang with best quality of projects and made a Master Roadmap. |
 | **02** | Jan 02 | ReadMe files | implemented roadmap by defining my step by step plan in ReadMe file and also made a proper folder structure!  |
-| **02** | Jan 03 | First.go | i learned and implemented (from **Tour of Go**) - Vars, Types, Funcs, Returns |
-| **02** | Jan 03 | First.go |  Mastered Go's for loops (including while-style), if with short statements, and switch logic |
+| **03** | Jan 03 | First.go | i learned and implemented (from **Tour of Go**) - Vars, Types, Funcs, Returns |
+| **04** | Jan 04 | second.go |  Mastered Go's for loops (including while-style), if with short statements, and switch logic |
 
 ---
 
