@@ -30,7 +30,7 @@ func split(sum int) (x, y int) {
 }
 
 func main() {
-	fmt.Println(">> DAY 2: TOUR OF GO CONCEPTS")
+	fmt.Println(">> DAY 1: TOUR OF GO CONCEPTS")
 
 	// CONCEPT: Short Variable Declarations (Inside function only)
 	k := 3
@@ -48,4 +48,5 @@ func main() {
 
 	x, y := split(17)
 	fmt.Println("Split Function (Named Returns):", x, y)
+
 }
