@@ -1,6 +1,6 @@
 # Golang Journey 2026: From Scrap PC to Backend Architect
 
-> **Current Status:** Day 4
+> **Current Status:** Day 5 of the Repo
 > **Location:** Hyderabad, India  
 > **Objective:** Senior Architect Sequence (Node.js -> High-Perf Go)
 
@@ -31,7 +31,7 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 
 ##  The Roadmap
 
-### Phase 1: The "Theory & Syntax" Foundation (2 Days)
+### Phase 1: The "Theory & Syntax" Foundation (1 week)
 *Goal: Understand the "Go Way" (Memory, Pointers, Interfaces). No AI coding.*
 - [ ] **A Tour of Go:** Finish every exercise.
 - [ ] **Effective Go:** Deep dive into "Pointers vs. Values" and "Interfaces".
@@ -96,6 +96,7 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **02** | Jan 02 | ReadMe files | implemented roadmap by defining my step by step plan in ReadMe file and also made a proper folder structure!  |
 | **03** | Jan 03 | First.go | i learned and implemented (from **Tour of Go**) - Vars, Types, Funcs, Returns |
 | **04** | Jan 04 | second.go |  Mastered Go's for loops (including while-style), if with short statements, and switch logic |
+| **05** | Jan 05 | third.go |  Mastered Pointers and Fixed-size Arrays |
 
 ---
 
