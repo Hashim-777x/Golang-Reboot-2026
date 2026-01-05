@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(">> DAY 4: MEMORY & FIXED STORAGE")
+	
+	fmt.Println(">> DAY 3 : TOUR OF GO CONCEPTS:- MEMORY & FIXED STORAGE")
 
 	// 1. POINTERS: Address vs value thing
 	i, j := 42, 2701
@@ -29,4 +30,5 @@ func main() {
 	primes := [6]int{2, 3, 5, 7, 11, 13} // Array literal
 	fmt.Println("Primes Array:", primes)
 }
+
 
