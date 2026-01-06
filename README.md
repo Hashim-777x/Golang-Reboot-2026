@@ -1,6 +1,6 @@
 # Golang Journey 2026: From Scrap PC to Backend Architect
 
-> **Current Status:** Day 5 of the Repo
+> **Current Status:** Day 6 of the Repo
 > **Location:** Hyderabad, India  
 > **Objective:** Senior Architect Sequence (Node.js -> High-Perf Go)
 
@@ -97,7 +97,7 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **03** | Jan 03 | First.go | i learned and implemented (from **Tour of Go**) - Vars, Types, Funcs, Returns |
 | **04** | Jan 04 | second.go |  Mastered Go's for loops (including while-style), if with short statements, and switch logic |
 | **05** | Jan 05 | third.go |  Mastered Pointers and Fixed-size Arrays |
-
+| **06** | Jan 05 | Fourth.go | Slices, Len vs Cap, and the make function |
 ---
 
 ## 🤝 Connect
