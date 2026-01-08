@@ -99,6 +99,8 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **05** | Jan 05 | third.go |  Mastered Pointers and Fixed-size Arrays |
 | **06** | Jan 06 | Forth.go | Slices, Len vs Cap, and the make function |
 | **07** | Jan 08 | fifth.go | Maps, Closures, and Restarting the Grind |
+| **08** | Jan 09 | sixth.go | Maps, Closures, and Restarting the Grind |
+
 
 ---
 
