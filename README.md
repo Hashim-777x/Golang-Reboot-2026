@@ -1,6 +1,6 @@
 # Golang Journey 2026: From Scrap PC to Backend Architect
 
-> **Current Status:** Day 9 of the Repo!✨
+> **Current Status:** Day 10 of the Repo!✨
 > **Location:** Hyderabad, India  
 > **Objective:** Senior Architect Sequence (Node.js -> High-Perf Go)
 
@@ -33,7 +33,7 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 
 ### Phase 1: The "Theory & Syntax" Foundation (1 week)
 *Goal: Understand the "Go Way" (Memory, Pointers, Interfaces). No AI coding.*
-- [ ] **A Tour of Go:** Finish every exercise.
+- [✅ ] **A Tour of Go:** Finish every exercise.
 - [ ] **Effective Go:** Deep dive into "Pointers vs. Values" and "Interfaces".
 - [ ] **Go Spec:** Understand Slices internals.
 
