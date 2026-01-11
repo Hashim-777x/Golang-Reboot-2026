@@ -101,8 +101,8 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **07** | Jan 08 | fifth.go | Maps, Closures, and Restarting the Grind |
 | **08** | Jan 09 | sixth.go | Attaching logic to structs via Receivers. Implemented the Stringer interface for custom formatting.|
 | **09** | Jan 10 | seventh.go | Mastered implicit interface implementation and custom error types. The foundation for Phase 1 is 90% complete |
-| **09** | Jan 10 | seventh.go | Mastered implicit interface implementation and custom error types. The foundation for Phase 1 is 90% complete |
-Day 10: Finished Tour of Go - Mastered Goroutines and Channels
+| **10** | Jan 11 | eighth.go | Mastered implicit interface implementation and custom error types. The foundation for Phase 1 is 90% complete |
+
 
 
 ---
