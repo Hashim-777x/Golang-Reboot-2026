@@ -21,7 +21,7 @@ func (d Developer) String() string {
 }
 
 func main() {
-	fmt.Println(">> DAY 8: METHODS & THE STRINGER INTERFACE")
+	fmt.Println(">> DAY 6: METHODS & THE STRINGER INTERFACE")
 
 	me := Developer{Name: "Hashim", Role: "Golang Architect"}
 
@@ -31,3 +31,4 @@ func main() {
 	// Testing the Stringer interface implementation
 	fmt.Println("Custom Print:", me)
 }
+
