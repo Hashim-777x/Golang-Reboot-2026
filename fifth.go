@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(">> DAY 7: THE COMEBACK (MAPS & CLOSURES)")
+	fmt.Println(">> DAY 5: THE COMEBACK (MAPS & CLOSURES)")
 
 	// 1. MAPS: Key-Value logic (The real workhorse)
 	// Like JS object but strict types.
