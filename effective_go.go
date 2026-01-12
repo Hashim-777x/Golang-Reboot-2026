@@ -14,7 +14,7 @@ type DatabaseConfig struct {
 }
 
 func main() {
-	fmt.Println(">> DAY 10: EFFECTIVE GO PATTERNS")
+	fmt.Println(">> DAY 9: EFFECTIVE GO PATTERNS")
 
 	// Pattern A: The Composite Literal (Preferred over new)
 	// We use this to keep the code clean and set values immediately.
