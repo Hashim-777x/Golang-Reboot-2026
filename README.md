@@ -35,8 +35,8 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 ### Phase 1: The "Theory & Syntax" Foundation 
 *Goal: Understand the "Go Way" (Memory, Pointers, Interfaces). No AI coding.*
 - [✅] **A Tour of Go:** Finish every exercise.
-- [ ] **Effective Go:** Deep dive into "Pointers vs. Values" and "Interfaces".
-- [ ] **Go Spec:** Understand Slices internals.
+- [✅] **Effective Go:** Deep dive into "Pointers vs. Values" and "Interfaces".
+- [✅] **Go Spec:** Understand Slices internals.
 
 ### Phase 2: Networking & The "Socket" Level
 *Goal: Understand how data moves before HTTP abstracts it.*
@@ -103,7 +103,8 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **08** | Jan 09 | sixth.go | Attaching logic to structs via Receivers. Implemented the Stringer interface for custom formatting.|
 | **09** | Jan 10 | seventh.go | Mastered implicit interface implementation and custom error types. The foundation for Phase 1 is 90% complete |
 | **10** | Jan 11 | eighth.go |  Finished Tour of Go - Mastered Goroutines and Channels |
-| **10** | Jan 12 | language_spec.go | Deep dive into Slice internals and memory layout. Understanding the 24-byte SliceHeader. |
+| **10** | Jan 12 | effective_go.go |  Effective Go - Allocation, Literals, and Defer |
+| **10** | Jan 13 | language_spec.go | Deep dive into Slice internals and memory layout. Understanding the 24-byte SliceHeader. |
 
 ---
 
