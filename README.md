@@ -105,7 +105,7 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **10** | Jan 11 | eighth.go |  Finished Tour of Go - Mastered Goroutines and Channels |
 | **11** | Jan 12 | effective_go.go |  Effective Go - Allocation, Literals, and Defer |
 | **12** | Jan 13 | language_spec.go | Deep dive into Slice internals and memory layout. Understanding the 24-byte SliceHeader. |
-| **13** | Jan 14 | language_spec.go | Deep dive into Slice internals and memory layout. Understanding the 24-byte SliceHeader. |
+| **13** | Jan 14 | language_spec.go |  |
 | **14** | Jan 15 | language_spec.go | Deep dive into Slice internals and memory layout. Understanding the 24-byte SliceHeader. |
 
 
