@@ -11,7 +11,6 @@ import (
 
 func main() {
 	// 1. Establish connection with a timeout. 
-	// Don't wait forever if the server is dead.
 	address := "localhost:6379"
 	conn, err := net.DialTimeout("tcp", address, 5*time.Second)
 	if err != nil {
@@ -20,7 +19,7 @@ func main() {
 	}
 	defer conn.Close()
 
-	fmt.Println("✅ Connected to server. Type 'exit' to quit.")
+	fmt.Println("Connected to server. Type 'exit' to quit.")
 
 	// 2. Initialize readers ONCE. Efficiency matters.
 	terminalReader := bufio.NewReader(os.Stdin)
@@ -38,12 +37,12 @@ func main() {
 		// Clean the input
 		input = strings.TrimSpace(input)
 		if input == "exit" {
-			fmt.Println("👋 Shutting down...")
+			fmt.Println(" Shutting down...")
 			break
 		}
 
 		// 4. Set a Deadline for the WRITE and READ
-		// This tells the OS: "If this takes longer than 2 seconds, kill the task."
+		// 
 		conn.SetDeadline(time.Now().Add(2 * time.Second))
 
 		// 5. Send data
