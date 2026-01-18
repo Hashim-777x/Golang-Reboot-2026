@@ -27,7 +27,7 @@ func main() {
 
 	for {
 		// 3. Get user input
-		fmt.Print("👉 Message: ")
+		fmt.Print(" Message: ")
 		input, err := terminalReader.ReadString('\n')
 		if err != nil {
 			fmt.Println("Error reading input:", err)
@@ -42,7 +42,7 @@ func main() {
 		}
 
 		// 4. Set a Deadline for the WRITE and READ
-		// 
+		// 2 sec time out
 		conn.SetDeadline(time.Now().Add(2 * time.Second))
 
 		// 5. Send data
