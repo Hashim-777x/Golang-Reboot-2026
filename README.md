@@ -108,7 +108,7 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **13** | Jan 14 | language_spec.go | updated and completed the language specs |
 | **14** | Jan 15 | tcp_client.go | implemented tcp connection in go |
 | **15** | Jan 17 | tcp-client.go | updated the code and optimized |
-| **16** | Jan 18 | tcp-client.go | updated the code and optimized |
+| **16** | Jan 18 | tcp-client.go | Refactored TCP client with production patterns: separated I/O functions, per-operation timeouts, buffered writes, and proper error context. |
 
 
 ---
