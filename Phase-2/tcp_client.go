@@ -41,11 +41,11 @@ func run() error {
 
 	for {
 		// 3. Prompt and read user input
-		fmt.Print("➤ ")
+		fmt.Print("----------- ")
 		input, err := terminalReader.ReadString('\n')
 		if err != nil {
 			if err == io.EOF {
-				fmt.Println("\n👋 Connection closed")
+				fmt.Println("\n Connection closed")
 				return nil
 			}
 			return fmt.Errorf("input read failed: %w", err)
@@ -59,7 +59,7 @@ func run() error {
 		}
 		
 		if strings.ToLower(input) == "exit" {
-			fmt.Println("👋 Shutting down gracefully...")
+			fmt.Println(" Shutting down gracefully...")
 			return nil
 		}
 
