@@ -19,7 +19,7 @@ const (
 
 func main() {
 	if err := run(); err != nil {
-		fmt.Fprintf(os.Stderr, "❌ FATAL: %v\n", err)
+		fmt.Fprintf(os.Stderr, " FATAL: %v\n", err)
 		os.Exit(1)
 	}
 }
@@ -32,8 +32,8 @@ func run() error {
 	}
 	defer conn.Close()
 
-	fmt.Printf("✅ Connected to %s\n", serverAddr)
-	fmt.Println("📝 Commands: Type your message or 'exit' to quit\n")
+	fmt.Printf(" Connected to %s\n", serverAddr)
+	fmt.Println(" Commands: Type your message or 'exit' to quit\n")
 
 	// 2. Initialize buffered readers with custom buffer size for performance
 	terminalReader := bufio.NewReaderSize(os.Stdin, bufferSize)
