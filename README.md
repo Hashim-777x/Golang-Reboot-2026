@@ -110,7 +110,7 @@ This repository documents my **Non-Negotiable** path to mastering Golang. No ski
 | **15** | Jan 17 | tcp-client.go | updated the code ! |
 | **16** | Jan 18 | tcp-client.go | Refactored TCP client with production patterns: separated I/O functions, per-operation timeouts, buffered writes, and proper error context. |
 |        |        |               |                                                           |
-|        | Jan 20 | to Feb 14     |       Sem lab records/ mini project/ labs internals - externals - 7th sem main exams  |
+|        |        |Jan 20 to Feb 14|       Sem lab records/ mini project/ labs internals - externals - 7th sem main exams  |
 |        |        |               |                                                                                   |
 | **17** | Feb 15 | tcp-client.go | rewrite the entire code and make it more structured :- implement core TCP server with concurrent peer handling |
 
