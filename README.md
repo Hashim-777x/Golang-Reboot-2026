@@ -58,7 +58,7 @@ Files: `phase-2/`
 | 18 | Feb 16 | tcp_client.go | Efficient I/O reading in peer readLoop |
 | 19 | Feb 17 | tcp_client.go | Thread-safe message passing via channels |
 | — | Feb 18–May 12 | — | Internship (multiple projects), semester exams, final year project, depression, no golang learning. Honest gap.|
-| 20 | May 15 | — | Restarted. Cleaned README. New plan. |
+| 20 | May 16 | — | Restarted. Cleaned README. New plan. |
 
 ---
 
